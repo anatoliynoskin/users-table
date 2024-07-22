@@ -1,0 +1,15 @@
+.modal{
+  position: fixed;
+  max-width: 1200px;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: aliceblue;
+}
+
+.closeBtn{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
